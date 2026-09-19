@@ -5,7 +5,7 @@
 
 ## 🇷🇺 Русский
 
-Скачать игру в realeses
+### *Скачать игру можно в releases*
 
 ### Управление:
 * **ЛКМ (левая кнопка)** — поставить блок / нажать кнопку или рычаг
@@ -22,10 +22,14 @@
 
 ### Запуск:
 * Запустите **`red_drava.exe`**
+  
+# RED: REDTEDACVHSVAEEHFID 
 
 ## 🇬🇧 English
 
 A simple 2D simulator for Redstone mechanisms and logic circuits. Build machines using wires, repeaters, pistons, and sensors.
+
+### *You can download the game from the releases.*
 
 ### Controls:
 * **LMB** — Place block / Toggle switch or button
@@ -43,9 +47,13 @@ A simple 2D simulator for Redstone mechanisms and logic circuits. Build machines
 ### How to Run:
 * Run **`red_drava.exe`**
 
+# RED: REDTEDACVHSVAEEHFID 
+
 ## 🇨🇳 中文
 
 一个简单的 2D 红石机械与逻辑电路模拟器。使用电线、活塞、延迟器和传感器建造你的机械。
+
+### *您可以从发布页面下载该游戏。*
 
 ### 操作说明:
 * **鼠标左键** — 放置方块 / 切换开关或按钮
